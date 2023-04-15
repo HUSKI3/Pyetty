@@ -1,0 +1,4 @@
+let x: string = "Hello world from Pyetty!";
+v::println(x);
+
+x->len;
